@@ -6,7 +6,7 @@ public class TestGroupeProfesseur {
     {
         // comment
 
-        System.out.println(allo);
+        System.out.println("Hello");
 
         Groupe groupe = new Groupe(1,"Design Patterns");
         Professeur professeur1 = new Professeur("abcd1234","Mr Professeur 1");
