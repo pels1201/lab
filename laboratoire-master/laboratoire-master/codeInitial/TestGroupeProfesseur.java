@@ -4,6 +4,7 @@ public class TestGroupeProfesseur {
 
     public static void main(String[] args)
     {
+        // allo
         Groupe groupe = new Groupe(1,"Design Patterns");
         Professeur professeur1 = new Professeur("abcd1234","Mr Professeur 1");
         Professeur professeur2 = new Professeur("bcde2345","Mr Professeur 2");
